@@ -55,8 +55,8 @@ Once the dashboard is set up, users can leverage its features to gain valuable i
 
 The Employee Tracking Dashboard relies on the following data sources:
 
-- [Your Company's HR Database]
-- [Additional Data Sources]
+- Mrxt.pvt.tech
+- Employee Analysis
 
 Ensure that your data is correctly formatted and up-to-date for accurate results.
 
